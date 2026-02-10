@@ -1,11 +1,35 @@
-# Intro to Computer Architecture
-Repo for adding my MIPS and other programming assignments for this course.
+<h1 align="center">🖥️ Computer Architecture (CSCE 212)</h1>
 
-# Homework 1
-This MIPS program just collects some simple data from the user and returns it to the console.
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-MIPS%20Assembly-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Course-CSCE%20212-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-In%20Progress-green?style=for-the-badge">
+</p>
 
-# Program 1
-Program 1 has 3 files we were required to create.
- - Program 1: Computes the area, perimeter, diagonal squared, length/width, length % width, and returns it to the user.
- - Program 2: Acts as a vending machine where the user enters an ID, Items to Purchase, Items to Return, and the Current Stock
- - Program 3: Generates compliments and returns them to the user.
+---
+
+## 📘 Overview
+This repository contains coursework and programming assignments for **Computer Architecture**, focusing on low-level programming and processor instruction execution.
+
+---
+
+## 🛠️ Tools & Technologies
+- MIPS Assembly
+- MARS / SPIM
+
+---
+
+## 📊 Assignments
+| Assignment | Topic | Description | Status |
+|----------|------|------------|------|
+| HW1 | Input/Output | Reads input and prints formatted results | ✅ |
+| Program 1 | Multi-file program | Computes geometric calculations | ✅ |
+| Program 2 | Multi-file program | Acts as Vending Machine | ✅ |
+| Program 3 | Multi-file program | Generates Compliments | ✅ |
+| Future Assignment | TBD | Add later | ⏳ |
+
+---
+
+## 👨‍💻 Author
+**Caden Luksic**  
+GitHub: https://github.com/CadenAL
