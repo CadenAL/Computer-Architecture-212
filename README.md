@@ -1,4 +1,4 @@
-# csce212-spring26
+# Intro to Computer Architecture
 Repo for adding my MIPS and other programming assignments for this course.
 
 # Homework 1
